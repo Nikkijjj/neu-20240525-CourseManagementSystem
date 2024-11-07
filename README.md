@@ -1,4 +1,3 @@
-# neu-20240525-RestaurantSystem
 # 系统基本功能
 
 ## 课程信息管理
